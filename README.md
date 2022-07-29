@@ -38,5 +38,5 @@
 
 <h3 align="left">:bar_chart: Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskreisler&show_icons=true&locale=en&layout=compact" alt="Kreisler" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itskreisler&show_icons=true&locale=en" alt="Kreisler" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskreisler&show_icons=true&locale=es&layout=compact" alt="Kreisler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itskreisler&show_icons=true&locale=es" alt="Kreisler" /></p>
