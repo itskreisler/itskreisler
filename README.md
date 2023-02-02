@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&duration=6000&width=552&lines=A+passionate+frontend+developer+from+Colombia!">
 </p>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 <p align="left"> <a href="https://twitter.com/itskreisler" target="blank"><img src="https://img.shields.io/twitter/follow/itskreisler?logo=twitter&style=for-the-badge" alt="itsKreisler" /></a> </p>
 
 - 🔭 I’m currently working on [itskreisler](https://www.tiktok.com/@itskreisler)
