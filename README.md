@@ -27,6 +27,7 @@
 <a href="https://fb.com/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itskreisler" height="30" width="40" /></a>
 <a href="https://instagram.com/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskreisler" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itskreisler" height="30" width="40" /></a>
+<a href="https://www.threads.net/@itskreisler>"><img src="https://thread-count.vercel.app/thread-count/itskreisler?label=Threads&labelColor=white&color=pink&gradient=false" alt="I'm on Threads."></a>
 </p>
 
 ## :fire: Streak stats
