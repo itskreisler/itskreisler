@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/itskreisler">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&duration=4000&width=552&lines=Desarrollador+de+Software+%7C+Front-End+%7C+Mobile+%7C+Back-End" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&duration=8000&width=552&lines=Desarrollador+de+Software+%7C+Front-End+%7C+Mobile+%7C+Back-End" alt="Typing SVG">
   </a>
 </p>
 
@@ -58,13 +58,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/itskreisler/Portfolio- Kreisler">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itskreisler&repo=Portfolio-Kreisler&theme=dracula" alt="Proyecto 1">
+      <a href="https://github.com/itskreisler/telegram-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itskreisler&repo=telegram-bot&theme=dracula" alt="Telegram Bot">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/itskreisler/Kreisler-Bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itskreisler&repo=Kreisler-Bot&theme=dracula" alt="Proyecto 2">
+      <a href="https://github.com/itskreisler/js-google-translate-free">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itskreisler&repo=js-google-translate-free&theme=dracula" alt="js-google-translate-free">
       </a>
     </td>
   </tr>
