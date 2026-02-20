@@ -22,3 +22,10 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+.vercel/
+/public/alerts.json
+**.test.**
+**/temp/**
+**/tmp/**
+package-lock.json
+stw_missions.json
