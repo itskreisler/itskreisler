@@ -1,0 +1,23 @@
+---
+import {
+  defaultLang,
+  SchemaParamsLang,
+  getStaticPathsLang,
+} from "@/i18n/translate";
+import Layout from "@/layouts/Layout.astro";
+import LandingPage from "@/components/LandingPage.astro";
+
+export function getStaticPaths() {
+  return getStaticPathsLang();
+}
+//
+const lang = Astro.params.lang.toLowerCase();
+const { error } = SchemaParamsLang.safeParse({ lang });
+if (error) {
+  return Astro.redirect(defaultLang);
+}
+---
+
+<Layout>
+  <LandingPage />
+</Layout>
