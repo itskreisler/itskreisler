@@ -1,60 +1,31 @@
 ---
 import "@/styles/global.css";
-import { t18n } from "@/i18n/translate";
-const t = t18n(Astro.url);
-const copyright = t("footer.copyright", {
-    year: new Date().getFullYear(),
-    author: "Kreisler",
-});
+import Header from "./Header.astro";
+import Hero from "./Hero.astro";
+import TechStack from "./TechStack.astro";
+import Projects from "./Projects.astro";
+import Footer from "./Footer.astro";
+import BottomNav from "./BottomNav.astro";
 ---
 
-<body>
-    <header class="py-6 text-center bg-gray-100 dark:bg-gray-800">
-        <h1 class="text-2xl font-bold text-gray-800 dark:text-gray-100">
-            Portafolio
-        </h1>
-    </header>
-    <main>
-        <section class="flex flex-col items-center justify-center gap-4">
-            <svg
-                class="w-16 h-16 text-yellow-400 animate-bounce"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="1.5"
-                viewBox="0 0 24 24"
-            >
-                <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    d="M12 6v6l4 2"></path>
-                <circle
-                    cx="12"
-                    cy="12"
-                    r="10"
-                    stroke="currentColor"
-                    stroke-width="1.5"
-                    fill="none"></circle>
-            </svg>
-            <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-200">
-                ¡Portafolio en construcción!
-            </h2>
-            <p class="text-gray-500 dark:text-gray-400">
-                Vuelve pronto para ver las novedades.
-            </p>
-        </section>
+<div class="min-h-screen flex flex-col">
+    <Header />
+    <main class="flex-1 w-full max-w-2xl mx-auto px-4 py-8">
+        <Hero />
+        <TechStack />
+        <div id="projects">
+            <Projects />
+        </div>
     </main>
-    <footer
-        set:html={copyright}
-        class="py-4 text-center text-xs text-gray-400 bg-gray-50 dark:bg-gray-900"
-    />
-</body>
+    <Footer />
+    <BottomNav />
+</div>
 
 <style>
     @reference "@/styles/global.css";
-    body {
-        @apply grid min-h-dvh grid-rows-[auto_1fr_auto];
-    }
-    main {
-        @apply flex items-center justify-center;
+
+    /* Ensure the body or main container takes full height if needed */
+    :global(body) {
+        @apply bg-[#f6f7f8] dark:bg-[#101922];
     }
 </style>

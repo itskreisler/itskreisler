@@ -1,0 +1,21 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/translate';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+<nav class="fixed bottom-0 left-0 right-0 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 flex justify-around items-center h-16 px-6 z-50">
+    <a href="#" class="flex flex-col items-center gap-1 text-primary">
+        <span class="material-symbols-outlined fill-current">home</span>
+        <span class="text-[10px] font-bold uppercase tracking-widest">{t('nav.home')}</span>
+    </a>
+    <a href="#projects" class="flex flex-col items-center gap-1 text-slate-400">
+        <span class="material-symbols-outlined">grid_view</span>
+        <span class="text-[10px] font-bold uppercase tracking-widest">{t('nav.projects')}</span>
+    </a>
+    <a href="#about" class="flex flex-col items-center gap-1 text-slate-400">
+        <span class="material-symbols-outlined">person</span>
+        <span class="text-[10px] font-bold uppercase tracking-widest">{t('nav.about')}</span>
+    </a>
+</nav>
+<div class="h-16"></div>

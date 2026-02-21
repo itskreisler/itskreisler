@@ -1,0 +1,22 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/translate';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+<footer class="bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 py-10 px-4">
+    <div class="max-w-2xl mx-auto flex flex-col items-center">
+        <div class="flex items-center gap-2 mb-6">
+            <div class="bg-primary rounded-lg p-1 flex items-center justify-center">
+                <span class="material-symbols-outlined text-white text-[16px]">terminal</span>
+            </div>
+            <h1 class="text-base font-extrabold tracking-tight">JS.<span class="text-primary">DEV</span></h1>
+        </div>
+        <div class="flex gap-6 mb-8 text-slate-500">
+            <a href={t('footer.github')} class="hover:text-primary transition-colors">GitHub</a>
+            <a href={t('footer.linkedin')} class="hover:text-primary transition-colors">LinkedIn</a>
+            <a href={t('footer.twitter')} class="hover:text-primary transition-colors">Twitter</a>
+        </div>
+        <p class="text-slate-400 text-xs font-medium">{t('footer.copy')}</p>
+    </div>
+</footer>

@@ -1,0 +1,22 @@
+---
+import { getLangFromUrl, useTranslations } from '../i18n/translate';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const techs = t('tech_stack.items') as { name: string; color: string }[];
+---
+<section class="mb-12">
+    <div class="flex items-center gap-2 mb-6">
+        <span class="material-symbols-outlined text-primary">auto_awesome</span>
+        <h3 class="text-xl font-bold">{t('tech_stack.title')}</h3>
+    </div>
+    <div class="flex flex-wrap gap-2">
+        {techs.map((tech) => (
+            <span class="px-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-sm font-semibold flex items-center gap-2">
+                <span class={`w-2 h-2 rounded-full ${tech.color}`}></span>
+                {tech.name}
+            </span>
+        ))}
+    </div>
+</section>

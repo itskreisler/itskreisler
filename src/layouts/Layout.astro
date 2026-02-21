@@ -1,11 +1,32 @@
 ---
 import Head from "@/components/Head.astro";
+import { getLangFromUrl } from "@/i18n/translate";
+
+const lang = getLangFromUrl(Astro.url);
 ---
 
 <!doctype html>
-<html lang={"lang"}>
+<html lang={lang}>
 	<Head />
 	<body>
 		<slot />
+		<script is:inline>
+			const theme = (() => {
+				if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+					return localStorage.getItem('theme');
+				}
+				if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+					return 'dark';
+				}
+				return 'light';
+			})();
+
+			if (theme === 'light') {
+				document.documentElement.classList.remove('dark');
+			} else {
+				document.documentElement.classList.add('dark');
+			}
+			window.localStorage.setItem('theme', theme);
+		</script>
 	</body>
 </html>
