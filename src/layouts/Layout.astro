@@ -6,13 +6,12 @@ const { title = "Kreisler" } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 ---
 
-
 <!doctype html>
 <html lang={lang} class="" data-theme="light">
-   <Head />
-   <body>
-	   <slot />
-   </body>
+	<Head />
+	<body>
+		<slot />
+	</body>
 </html>
 
 <style is:global>
