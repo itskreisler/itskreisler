@@ -1,76 +1,88 @@
-<h1 align="center">¡Hola! Soy Kreisler 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=¡Hola!%20Soy%20Kreisler%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/itskreisler">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&duration=12000&width=552&lines=Desarrollador+de+Software+%7C+Front-End+%7C+Mobile+%7C+Back-End" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+%7C+Full-Stack+%26+Mobile;Apasionado+por+el+c%C3%B3digo+limpio+y+las+experiencias+web;Astro+%7C+React+%7C+TypeScript+%7C+Node.js;Transformando+ideas+en+software+de+alto+impacto" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itskreisler&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophy">
+  🚀 <b>Desarrollador Full-Stack & Mobile</b> apasionado de Colombia, enfocado en construir aplicaciones modernas, eficientes y con experiencias de usuario excepcionales. Me encanta explorar nuevas tecnologías, contribuir a proyectos open-source y crear soluciones de alto valor.
+</p>
+
+<br />
+
+<h3 align="center">🌐 Conéctate conmigo</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/kreisler" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/itskreisler" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://codepen.io/kreisler" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://threads.net/@itskreisler" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="https://instagram.com/itskreisler" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/c/itskreisler" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+<br />
+
+<h3 align="center">⚡ Lenguajes y Tecnologías</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,astro,html,css,tailwind,nodejs,python,java,php,mysql,android,git,vscode,docker,figma&perline=9&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<br />
+
+<h3 align="center">📊 Estadísticas de GitHub</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itskreisler&theme=dracula&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-    Soy un apasionado desarrollador de Colombia, enfocado en crear soluciones innovadoras y atractivas. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos desafiantes.
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itskreisler&theme=dracula" alt="Resumen de estadísticas" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskreisler&theme=dracula" alt="Lenguajes por repositorio" height="165" />
 </p>
 
-<h3 align="center">Conéctate conmigo:</h3>
-<p align="center">
-<a href="https://codepen.io/kreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kreisler" height="30" width="40" /></a>
-<a href="https://twitter.com/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskreisler" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kreisler" height="30" width="40" /></a>
-<a href="https://fb.com/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itskreisler" height="30" width="40" /></a>
-<a href="https://instagram.com/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskreisler" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itskreisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itskreisler" height="30" width="40" /></a>
-<a href="https://www.threads.net/@itskreisler" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
-</p>
+<br />
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
-<p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
+<h3 align="center">🚀 Proyectos Destacados</h3>
 
-<h3 align="center">Estadísticas de GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itskreisler&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de GitHub de Kreisler">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskreisler&layout=compact&theme=dracula&locale=es" alt="Top Languages">
-</p>
-<p align="center">
-  
-</p>
-
-<h3 align="center">Proyectos Destacados</h3>
 <table align="center">
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/itskreisler/telegram-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itskreisler&repo=telegram-bot&theme=dracula" alt="Telegram Bot">
+        <b>🤖 Telegram Bot</b>
       </a>
+      <br />
+      <sub>Bot de Telegram automatizado desarrollado en JavaScript / Node.js</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/itskreisler/js-google-translate-free">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itskreisler&repo=js-google-translate-free&theme=dracula" alt="js-google-translate-free">
+        <b>🌐 JS Google Translate Free</b>
       </a>
+      <br />
+      <sub>Librería ligera para traducción con Google Translate API sin costo</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=json&logoColor=white" alt="API" />
     </td>
   </tr>
 </table>
-
-<h3 align="center">Actividad Reciente en GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itskreisler&theme=dracula&hide_border=true" alt="Actividad Reciente en GitHub">
-</p>
