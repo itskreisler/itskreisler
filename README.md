@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itskreisler&theme=dracula" alt="Resumen de estadísticas" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskreisler&theme=dracula" alt="Lenguajes por repositorio" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itskreisler&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itskreisler&layout=compact&theme=dracula&hide_border=true" alt="Top Lenguajes" height="165" />
 </p>
 
 <br />
