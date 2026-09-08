@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/itskreisler">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+%7C+Full-Stack+%26+Mobile;Apasionado+por+el+c%C3%B3digo+limpio+y+las+experiencias+web;Astro+%7C+React+%7C+TypeScript+%7C+Node.js;Transformando+ideas+en+software+de+alto+impacto" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Desarrollador+Full-Stack+%26+Mobile;Apasionado+por+el+c%C3%B3digo+y+la+tecnolog%C3%ADa;Astro+%7C+React+%7C+TypeScript+%7C+Node.js;Transformando+ideas+en+software" alt="Typing SVG" />
   </a>
 </p>
 
